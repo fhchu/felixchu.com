@@ -1,4 +1,10 @@
 title: Felix Chu
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+minimal_mistakes_skin: "dark"
+locale: "en-US"
+description: "Felix Chu, aspiring software engineer"
 plugins:
   - jekyll-include-cache
+defaults:
+  - values:
+      author_profile: true
