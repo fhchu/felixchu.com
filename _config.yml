@@ -1,6 +1,4 @@
 title: Felix Chu
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-github:
-  is_project_page: false
 plugins:
   - jekyll-include-cache
