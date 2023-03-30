@@ -1,0 +1,7 @@
+main:
+  - title: "Projects"
+    url: /
+  - title: "Pixel Art"
+    url: /pixelart/
+  - title: "About"
+    url: /about/

@@ -1,10 +1,26 @@
-title: Felix Chu
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+title: "Felix Chu"
+name: "Felix Chu"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 locale: "en-US"
-description: "Felix Chu, aspiring software engineer"
+description: "Felix Chu, Programmer and player-first game designer"
+masthead_title: "Felix Chu"
+logo: "/assets/images/cat.png"
 plugins:
   - jekyll-include-cache
 defaults:
   - values:
       author_profile: true
+author:
+  bio: "Programmer and player-first Game Designer"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/fhchu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/felix-h-chu"
+    - label: "Email"
+      icon: "far fa-envelope"
+      url: "mailto:felixhchu@gmail.com"
+
