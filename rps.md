@@ -19,7 +19,7 @@ author:
 
 ## How do you turn Rock Paper Scissors into a strategy game?
 
-The goal of this project is to develop a game with fun one-versus-one "combat" that rewards planning, thinking ahead, and understanding your opponent's behavior.
+The goal of this project is to develop a game with fun one-versus-one "combat" that rewards planning, thinking ahead, and understanding your opponent's behavior. Check out my [dev blog!](https://fchu.substack.com/)
 
 There are two main constraints: first is that there are three inputs: rock, paper, and scissors. The second is there cannot be any progression between games. These two constraints allow new players to quickly learn and understand the game systems and mechanics.
 
