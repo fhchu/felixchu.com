@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rock Paper Scissors Advanced (WIP!)"
+title: "Rock Paper Scissors Evolved"
 author:
   avatar: "assets/images/cat.png"
   bio: programmer, game designer, lover of cats
