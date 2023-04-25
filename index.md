@@ -18,5 +18,5 @@ author:
 
 ---
 
-RPS Advanced - WIP
+RPS Evolved
 [![RPSAdvanced](/assets/images/rpsadvanced.png)](/rps)
